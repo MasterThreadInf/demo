@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "TnmQ7lpRuxk5mI4Fyn5gc+Q/vAvAKgBg3c7tHhpFxow=",
+  "Source": "demo.Wasm",
+  "BasePath": "_content/demo.Wasm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "demo.Wasm\\wwwroot",
+      "Source": "demo.Wasm",
+      "ContentRoot": "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Wasm\\wwwroot\\",
+      "BasePath": "_content/demo.Wasm",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

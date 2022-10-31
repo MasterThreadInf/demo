@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Skia.Gtk\\demo.Skia.Gtk.csproj": {}
+  },
+  "projects": {
+    "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Skia.Gtk\\demo.Skia.Gtk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Skia.Gtk\\demo.Skia.Gtk.csproj",
+        "projectName": "demo.Skia.Gtk",
+        "projectPath": "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Skia.Gtk\\demo.Skia.Gtk.csproj",
+        "packagesPath": "C:\\Users\\nakul\\.nuget\\packages\\",
+        "outputPath": "Z:\\UNO\\UnoAzureDemo\\demo\\demo.Skia.Gtk\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "Z:\\UNO\\UnoAzureDemo\\NuGet.Config",
+          "C:\\Users\\nakul\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\SoftwareSolutions\\E3.ImportExportBranch\\E3.ImportExport\\bin": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://erl-build01.eas.local:8443/nuget/Erlangen/v3/index.json": {},
+          "https://packages.infragistics.com/nuget/licensed": {},
+          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/xamarin-impl/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Uno.UI.Adapter.Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[4.5.12, )"
+            },
+            "Uno.WinUI.RemoteControl": {
+              "target": "Package",
+              "version": "[4.5.12, )"
+            },
+            "Uno.WinUI.Skia.Gtk": {
+              "target": "Package",
+              "version": "[4.5.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
